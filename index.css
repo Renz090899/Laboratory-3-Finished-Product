@@ -36,6 +36,7 @@ hr{
 	width: 4%;
 	margin: 100px auto;
 }
+
 .line{
 	text-decoration: underline;
 }
@@ -53,6 +54,7 @@ hr{
 	float: left;
 	position: absolute;
 	left: 200px;
+	bottom: 250px;
 }
 .first-container{
 	background-color: #e0ece4;
@@ -64,14 +66,14 @@ hr{
     float:left;
     left: 20px;
     bottom: 0;
-    margin-left:200px;
+    margin-left:300px;
     width:200px;
 }
 .coding{  
 	display: inline;
     float:right;
     right: 200px;
-    margin-right:200px;
+    margin-right:300px;
     width:200px;
 }
 .it{
@@ -148,7 +150,7 @@ hr{
 	height: 200px;
 }
 .bellowimg{
-	margin-left: 200px;
+	margin-left: 300px;
 }
 .last{
 	color: white;
